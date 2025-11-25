@@ -63,3 +63,41 @@ Writing for and while loops
 Using break and continue (if practiced)
 
 Building simple logic-based programs
+
+Day-3 – Functions and File Handling
+
+This folder contains the programs practiced on Day-3 of the PrimeBatch series. The focus for today was understanding how to create and use functions, along with the basics of reading and writing files in Python.
+
+Files included
+
+(Update filenames if needed)
+
+1. Function.py
+
+Shows how to define and call functions, use parameters, return values, and organize code.
+
+2. ATM.py
+
+A simple ATM simulation using functions to handle actions like deposit, withdraw, and balance check.
+
+3. Library.py
+
+Demonstrates how functions can manage items in a collection, such as adding books, issuing books, or viewing available items.
+
+4. File.py
+
+Covers basic file handling. It includes writing data to a file, reading it back, and handling common file operations.
+
+Skills learned
+
+Writing and calling functions
+
+Using parameters and return values
+
+Organizing code into reusable blocks
+
+Basic file operations (open, read, write)
+
+Handling simple logic within functions
+
+Managing small systems like ATM and Library using Python functions
