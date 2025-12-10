@@ -96,6 +96,65 @@ Using parameters and return values
 
 Organizing code into reusable blocks
 
+
+
+# Day 2 – Python Basics
+
+This folder contains the work and practice files from **Day 2** of my Python learning in the PrimeBatch program.  
+The goal for this day was to get comfortable with core Python fundamentals before moving into more advanced topics.
+
+---
+
+## What I covered on Day 2
+
+### ✔ Variables  
+How to create and update variables and how Python handles naming and memory.
+
+### ✔ Data Types  
+Explored the basic built-in types:
+- `int`
+- `float`
+- `str`
+- `bool`
+- `list`
+- `tuple`
+- `set`
+- `dict`
+
+### ✔ Taking User Input  
+Using `input()` to collect values and convert them to numbers when needed.
+
+### ✔ Basic Operations  
+Practiced simple arithmetic, string handling, and small expression-based programs.
+
+---
+
+## Files in this folder
+
+Each file contains short examples or exercises:
+
+- `variables.py`  
+  Basic variable operations, assignments, and swapping values.
+
+- `datatypes.py`  
+  Demonstrates different types and conversion between them.
+
+- `input_programs.py`  
+  Small programs that read user input and print results.
+
+More files may be added as I keep practicing.
+
+---
+
+## How to run the programs
+
+1. Make sure Python is installed.
+2. Open the folder in VS Code or terminal.
+3. Run any file like this:
+
+```bash
+python filename.py
+
 Basic file operations (open, read, write)
 
 Handling simple logic within functions
