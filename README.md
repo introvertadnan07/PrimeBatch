@@ -160,3 +160,41 @@ Basic file operations (open, read, write)
 Handling simple logic within functions
 
 Managing small systems like ATM and Library using Python functions
+
+
+# Day 3 – Python Operators and Expressions
+
+This folder includes all the programs and practice files from **Day 3** of my PrimeBatch Python learning.  
+The focus for today was understanding how Python evaluates expressions and how different operators behave.
+
+---
+
+## Topics Covered
+
+### ✔ Arithmetic Operators
+Used for basic math operations:
+- `+` addition  
+- `-` subtraction  
+- `*` multiplication  
+- `/` division  
+- `//` floor division  
+- `%` modulus  
+- `**` exponent  
+
+### ✔ Comparison Operators
+Checked relationships between values:
+- `==`, `!=`, `<`, `>`, `<=`, `>=`
+
+### ✔ Logical Operators
+Combined conditions using:
+- `and`
+- `or`
+- `not`
+
+### ✔ Assignment Operators
+Shortcuts for updating values:
+- `+=`, `-=`, `*=`, `/=`, `%=`, etc.
+
+### ✔ Operator Precedence
+Learned which operators Python evaluates first.  
+For example:
