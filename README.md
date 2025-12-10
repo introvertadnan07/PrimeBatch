@@ -195,6 +195,61 @@ Combined conditions using:
 Shortcuts for updating values:
 - `+=`, `-=`, `*=`, `/=`, `%=`, etc.
 
-### ✔ Operator Precedence
-Learned which operators Python evaluates first.  
-For example:
+
+# Day 4 – Type Conversion and Basic Input Programs
+
+This folder contains the work from **Day 4** of my PrimeBatch Python practice.  
+Today's focus was understanding how to convert data between types and using input to build small interactive programs.
+
+---
+
+## Topics Covered
+
+### ✔ Type Conversion
+Learned how to convert values between different types:
+
+- `int()`
+- `float()`
+- `str()`
+- `bool()`
+
+Examples:
+- Converting input strings to numbers  
+- Changing numbers to strings for printing  
+- Understanding what values become `True` or `False`
+
+### ✔ Input Handling
+Practiced reading user input and processing it in simple programs:
+- Reading two numbers and adding them  
+- Taking user details  
+- Converting string input to integers and floats  
+- Avoiding common input errors
+
+### ✔ Small Practice Programs
+Wrote basic scripts to apply type conversion:
+- Add two numbers
+- Compare values after conversion
+- Simple calculators
+- String formatting using variables
+
+---
+
+## Files in This Folder
+
+- `type_conversion.py`  
+  Examples showing how to convert values between types.
+
+- `input_programs.py`  
+  Beginner-friendly programs using `input()` and conversions.
+
+More files will be added as I continue practicing.
+
+---
+
+## How to Run the Programs
+
+From inside the **Day-4** folder, use:
+
+```bash
+python filename.py
+
