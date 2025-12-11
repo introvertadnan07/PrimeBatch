@@ -96,8 +96,160 @@ Using parameters and return values
 
 Organizing code into reusable blocks
 
+
+
+# Day 2 – Python Basics
+
+This folder contains the work and practice files from **Day 2** of my Python learning in the PrimeBatch program.  
+The goal for this day was to get comfortable with core Python fundamentals before moving into more advanced topics.
+
+---
+
+## What I covered on Day 2
+
+### ✔ Variables  
+How to create and update variables and how Python handles naming and memory.
+
+### ✔ Data Types  
+Explored the basic built-in types:
+- `int`
+- `float`
+- `str`
+- `bool`
+- `list`
+- `tuple`
+- `set`
+- `dict`
+
+### ✔ Taking User Input  
+Using `input()` to collect values and convert them to numbers when needed.
+
+### ✔ Basic Operations  
+Practiced simple arithmetic, string handling, and small expression-based programs.
+
+---
+
+## Files in this folder
+
+Each file contains short examples or exercises:
+
+- `variables.py`  
+  Basic variable operations, assignments, and swapping values.
+
+- `datatypes.py`  
+  Demonstrates different types and conversion between them.
+
+- `input_programs.py`  
+  Small programs that read user input and print results.
+
+More files may be added as I keep practicing.
+
+---
+
+## How to run the programs
+
+1. Make sure Python is installed.
+2. Open the folder in VS Code or terminal.
+3. Run any file like this:
+
+```bash
+python filename.py
+
 Basic file operations (open, read, write)
 
 Handling simple logic within functions
 
 Managing small systems like ATM and Library using Python functions
+
+
+# Day 3 – Python Operators and Expressions
+
+This folder includes all the programs and practice files from **Day 3** of my PrimeBatch Python learning.  
+The focus for today was understanding how Python evaluates expressions and how different operators behave.
+
+---
+
+## Topics Covered
+
+### ✔ Arithmetic Operators
+Used for basic math operations:
+- `+` addition  
+- `-` subtraction  
+- `*` multiplication  
+- `/` division  
+- `//` floor division  
+- `%` modulus  
+- `**` exponent  
+
+### ✔ Comparison Operators
+Checked relationships between values:
+- `==`, `!=`, `<`, `>`, `<=`, `>=`
+
+### ✔ Logical Operators
+Combined conditions using:
+- `and`
+- `or`
+- `not`
+
+### ✔ Assignment Operators
+Shortcuts for updating values:
+- `+=`, `-=`, `*=`, `/=`, `%=`, etc.
+
+
+# Day 4 – Type Conversion and Basic Input Programs
+
+This folder contains the work from **Day 4** of my PrimeBatch Python practice.  
+Today's focus was understanding how to convert data between types and using input to build small interactive programs.
+
+---
+
+## Topics Covered
+
+### ✔ Type Conversion
+Learned how to convert values between different types:
+
+- `int()`
+- `float()`
+- `str()`
+- `bool()`
+
+Examples:
+- Converting input strings to numbers  
+- Changing numbers to strings for printing  
+- Understanding what values become `True` or `False`
+
+### ✔ Input Handling
+Practiced reading user input and processing it in simple programs:
+- Reading two numbers and adding them  
+- Taking user details  
+- Converting string input to integers and floats  
+- Avoiding common input errors
+
+### ✔ Small Practice Programs
+Wrote basic scripts to apply type conversion:
+- Add two numbers
+- Compare values after conversion
+- Simple calculators
+- String formatting using variables
+
+---
+
+## Files in This Folder
+
+- `type_conversion.py`  
+  Examples showing how to convert values between types.
+
+- `input_programs.py`  
+  Beginner-friendly programs using `input()` and conversions.
+
+More files will be added as I continue practicing.
+
+---
+
+## How to Run the Programs
+
+From inside the **Day-4** folder, use:
+
+```bash
+python filename.py
+
