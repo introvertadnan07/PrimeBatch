@@ -253,3 +253,69 @@ From inside the **Day-4** folder, use:
 ```bash
 python filename.py
 
+
+# Day 5 – Conditional Statements in Python
+
+This folder contains all the practice work from **Day 5** of my PrimeBatch Python learning.  
+The main focus of this day was understanding how Python makes decisions using conditional statements.
+
+---
+
+## Topics Covered
+
+### ✔ `if` Statement  
+Used to execute code when a condition is true.
+
+### ✔ `if–else` Statement  
+Handled two possible paths based on a condition.
+
+### ✔ `if–elif–else` Ladder  
+Used when there are multiple conditions to check.
+
+### ✔ Nested Conditions  
+Conditions inside another condition for complex decision logic.
+
+### ✔ Relational & Logical Operators in Conditions  
+Applied:
+- Relational: `==`, `!=`, `<`, `>`, `<=`, `>=`
+- Logical: `and`, `or`, `not`
+
+---
+
+## Practice Programs
+
+Some common beginner-level programs included:
+
+- Check whether a number is positive, negative, or zero  
+- Find the greater of two or three numbers  
+- Check if a number is even or odd  
+- Simple grading system  
+- Age-based eligibility checks  
+
+---
+
+## Files in This Folder
+
+- `if_conditions.py`  
+  Basic examples of `if` statements.
+
+- `if_else.py`  
+  Programs using `if–else` logic.
+
+- `elif_ladder.py`  
+  Multiple-condition decision making.
+
+- `nested_if.py`  
+  Examples of nested conditional blocks.
+
+File names may vary slightly as I continue updating the folder.
+
+---
+
+## How to Run the Code
+
+Open the terminal in the **Day-5** folder and run:
+
+```bash
+python filename.py
+
