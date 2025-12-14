@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Box</title>
+    <link rel="stylesheet" href="checkBox.css">
+</head>
+<body>
+    <form action="/server">
+        <input type="checkbox" id="age" name="age">
+        <label for="age"> I am 18+ </label>
+        <button type="submit">Submit</button>
+        <div>
+            <input type="radio" name="fruit" id="apple">
+            <label for="apple">apple</label>
+            <input type="radio" name="fruit" id="mango">
+            <label for="mango">mango</label>
+            <input type="radio" name="fruit" id="banana">
+            <label for="banana">banana</label>
+        </div>
+        <div>
+            Choose your profession
+            <select name="profession" id="profession">
+                <option value="stu">Student</option>
+                <option value="dev">Developer</option>
+                <option value="Ai" selected>Ai Engineer</option>
+            </select>
+        </div>
+    </form>
+</body>
+</html>
