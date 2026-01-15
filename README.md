@@ -1,4 +1,4 @@
-Day-01 – Python Basics and advance
+Day-1 – Python Basics and advance
 
 This folder contains the introductory Python programs covered on Day-1 of the PrimeBatch series. These exercises focus on basic syntax, user input, simple operations, and foundational logic.
 
